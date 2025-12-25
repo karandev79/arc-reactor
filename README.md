@@ -45,8 +45,6 @@
 | Ribbon Wire | 1 | $0.36 | [Link](https://robocraze.com/products/ribbon-cable-10-wire-1-meter?variant=40192376012953) |
 | Rechargeable 3.7v LiPo Battery | 1 | $3.78 | [Link](https://robocraze.com/products/witty-fox-1500mah-rechargeable-3-7v-lipo-battery?variant=47488780763360) |
 | TTP223 Touch Switch Module | 1 | $0.36 | [Link](https://robocraze.com/products/ribbon-cable-10-wire-1-meter?variant=40192376012953) |
-| Ribbon Wire | 1 | $0.11 | [Link](https://robocraze.com/products/ttp223-touch-switch-module?variant=40192910753945) |
-
-Shipping and extra fees: ₹​60 / $0.67
-
-Total: $19.25
+Shipping charges | |  $0.67 |
+Total | | $18.45 |
+----
